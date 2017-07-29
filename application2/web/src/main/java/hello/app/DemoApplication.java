@@ -39,4 +39,8 @@ public class DemoApplication
     public void useDto (App2Dto dto) {
         
     }
+    
+    public void useDto (App1Dto dto) {
+        // Use something from application1
+    }
 }

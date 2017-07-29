@@ -27,6 +27,14 @@
             <version>${project.version}</version>
         </dependency>
         
+        
+        <!-- We also want to use something from application 1 -->
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>gs-multi-module-application1-dto</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        
     </dependencies>
 
     <!-- Only in modules that we want to run... -->

@@ -9,6 +9,9 @@
     <packaging>pom</packaging>
 
     <modules>
+
+	<!-- Add all modules here -->
+
         <module>library</module>
         <module>application1</module>
         <module>application2</module>

@@ -35,4 +35,8 @@ public class DemoApplication
 	{
 		SpringApplication.run(DemoApplication.class, args);
 	}
+    
+    public void useDto (App2Dto dto) {
+        
+    }
 }

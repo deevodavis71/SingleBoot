@@ -37,7 +37,7 @@ public class DemoApplication
 	}
     
     public void useDto (App2Dto dto) {
-        
+        // Change to App2
     }
     
     public void useDto (App1Dto dto) {
